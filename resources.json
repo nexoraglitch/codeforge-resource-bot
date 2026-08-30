@@ -1,0 +1,36 @@
+{
+  "python": [
+    {"title": "Official Python Tutorial", "url": "https://docs.python.org/3/tutorial/", "emoji": "📘"},
+    {"title": "Automate the Boring Stuff (free book)", "url": "https://automatetheboringstuff.com/", "emoji": "🐍"},
+    {"title": "freeCodeCamp: Scientific Computing with Python", "url": "https://www.freecodecamp.org/learn/scientific-computing-with-python/", "emoji": "🎓"},
+    {"title": "Real Python — tutorials & articles", "url": "https://realpython.com/", "emoji": "💻"},
+    {"title": "Exercism Python Track (practice)", "url": "https://exercism.org/tracks/python", "emoji": "🏋️"},
+    {"title": "LeetCode (practice)", "url": "https://leetcode.com/", "emoji": "🏋️"},
+    {"title": "Corey Schafer's Python Playlist (YouTube)", "url": "https://www.youtube.com/c/Coreyms", "emoji": "📺"},
+    {"title": "Python Standard Library Reference", "url": "https://docs.python.org/3/library/", "emoji": "📚"},
+    {"title": "PEP 8 — Style Guide for Python Code", "url": "https://peps.python.org/pep-0008/", "emoji": "📐"},
+    {"title": "Kaggle Python Micro-Course", "url": "https://www.kaggle.com/learn/python", "emoji": "📊"}
+  ],
+  "javascript": [
+    {"title": "MDN — JavaScript Docs", "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript", "emoji": "📘"},
+    {"title": "freeCodeCamp: JavaScript Algorithms & Data Structures", "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/", "emoji": "🎓"},
+    {"title": "javascript.info — The Modern JS Tutorial", "url": "https://javascript.info/", "emoji": "📖"},
+    {"title": "Exercism JavaScript Track (practice)", "url": "https://exercism.org/tracks/javascript", "emoji": "🏋️"},
+    {"title": "Codewars (practice)", "url": "https://www.codewars.com/", "emoji": "🏋️"},
+    {"title": "Traversy Media JS Crash Course (YouTube)", "url": "https://www.youtube.com/@TraversyMedia", "emoji": "📺"},
+    {"title": "You Don't Know JS (free book series)", "url": "https://github.com/getify/You-Dont-Know-JS", "emoji": "📚"},
+    {"title": "MDN — Async JS Guide", "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Asynchronous", "emoji": "⏱️"},
+    {"title": "JS30 — 30 Day Vanilla JS Challenge", "url": "https://javascript30.com/", "emoji": "🔥"}
+  ],
+  "html_css": [
+    {"title": "MDN — HTML Docs", "url": "https://developer.mozilla.org/en-US/docs/Web/HTML", "emoji": "📘"},
+    {"title": "MDN — CSS Docs", "url": "https://developer.mozilla.org/en-US/docs/Web/CSS", "emoji": "📘"},
+    {"title": "freeCodeCamp: Responsive Web Design", "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/", "emoji": "🎓"},
+    {"title": "CSS-Tricks — articles & snippets", "url": "https://css-tricks.com/", "emoji": "🎨"},
+    {"title": "Frontend Mentor — real design challenges", "url": "https://www.frontendmentor.io/", "emoji": "🏋️"},
+    {"title": "CSS Battle — fun competitive CSS", "url": "https://cssbattle.dev/", "emoji": "🏋️"},
+    {"title": "Kevin Powell's CSS Channel (YouTube)", "url": "https://www.youtube.com/@KevinPowell", "emoji": "📺"},
+    {"title": "Flexbox Froggy (learn flexbox by playing)", "url": "https://flexboxfroggy.com/", "emoji": "🐸"},
+    {"title": "Grid Garden (learn CSS grid by playing)", "url": "https://cssgridgarden.com/", "emoji": "🌱"}
+  ]
+}
